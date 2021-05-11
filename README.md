@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NiklasJ21
+- 👋 Hi, I’m Niklas Joof
 - 👀 I’m interested in Game developing
 - 🌱 I’m currently learning between nothing and everything that code has to offer
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on games 
+- 📫 You can reach me at niklasjoof@hotmail.com
 
 <!---
 NiklasJ21/NiklasJ21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
